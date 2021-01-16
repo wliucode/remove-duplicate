@@ -11,6 +11,9 @@ Remove Duplicate(s) from Sorted Array
 
 To achieve constant extra space without allocating extra space, 
     Just maintain a separate index for same array
+    
+    Time Complexity : O(n)
+    Auxiliary Space : O(1)    
 
 # Test case
 
